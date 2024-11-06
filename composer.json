@@ -49,7 +49,7 @@
         "symfony/maker-bundle": "^1.43",
         "symfony/proxy-manager-bridge": "6.1.*",
         "symfony/requirements-checker": "^2.0",
-        "symfony/runtime": "6.1.*",
+        "symfony/runtime": "6.4.*",
         "symfony/validator": "6.1.*",
         "symfony/yaml": "6.1.*"
     },
