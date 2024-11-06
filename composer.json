@@ -50,7 +50,7 @@
         "symfony/proxy-manager-bridge": "6.1.*",
         "symfony/requirements-checker": "^2.0",
         "symfony/runtime": "6.1.*",
-        "symfony/validator": "6.1.*",
+        "symfony/validator": "6.4.*",
         "symfony/yaml": "6.1.*"
     },
     "require-dev": {
